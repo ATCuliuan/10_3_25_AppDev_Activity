@@ -1,1 +1,1 @@
-This is my first Git activity
+Hi I'm John Rey Culiuan from BSCS 2B and this is my first Git activity in application development
