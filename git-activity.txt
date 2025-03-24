@@ -1,1 +1,3 @@
 Hi I'm John Rey Culiuan from BSCS 2B and this is my first Git activity in application development
+
+JP Fro BSCS 2B
